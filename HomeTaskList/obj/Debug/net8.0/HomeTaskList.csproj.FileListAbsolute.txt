@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\HomeTaskList\bin\Debug\net8.0\HomeTaskList.exe
+C:\Users\ASUS\Desktop\en son\HomeTaskList\bin\Debug\net8.0\HomeTaskList.deps.json
+C:\Users\ASUS\Desktop\en son\HomeTaskList\bin\Debug\net8.0\HomeTaskList.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\HomeTaskList\bin\Debug\net8.0\HomeTaskList.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskList\bin\Debug\net8.0\HomeTaskList.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\refint\HomeTaskList.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\HomeTaskList.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskList\obj\Debug\net8.0\ref\HomeTaskList.dll
